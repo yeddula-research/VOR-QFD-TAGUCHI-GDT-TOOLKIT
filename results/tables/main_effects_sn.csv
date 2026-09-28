@@ -1,0 +1,28 @@
+characteristic_sn,factor,level,tolerance,mean_sn_db
+Shell wall thickness tolerance,Wall thickness tolerance,1,±0.5 mm,39.030731682473366
+Shell wall thickness tolerance,Wall thickness tolerance,2,±0.8 mm,35.43479838396959
+Shell wall thickness tolerance,Wall thickness tolerance,3,±1.2 mm,31.640125066587956
+Shell wall thickness tolerance,Bore position tolerance,1,±0.3 mm,35.202052797306784
+Shell wall thickness tolerance,Bore position tolerance,2,±0.5 mm,35.36895962227254
+Shell wall thickness tolerance,Bore position tolerance,3,±0.8 mm,35.53464271345159
+Shell wall thickness tolerance,Flange face flatness tolerance,1,0.05 mm,35.30162449116104
+Shell wall thickness tolerance,Flange face flatness tolerance,2,0.10 mm,35.864342523869745
+Shell wall thickness tolerance,Flange face flatness tolerance,3,0.15 mm,34.93968811800013
+Nozzle bore positional tolerance,Wall thickness tolerance,1,±0.5 mm,12.034152961859675
+Nozzle bore positional tolerance,Wall thickness tolerance,2,±0.8 mm,12.10842208463653
+Nozzle bore positional tolerance,Wall thickness tolerance,3,±1.2 mm,11.64953715964692
+Nozzle bore positional tolerance,Bore position tolerance,1,±0.3 mm,15.680507622502747
+Nozzle bore positional tolerance,Bore position tolerance,2,±0.5 mm,11.877731499614919
+Nozzle bore positional tolerance,Bore position tolerance,3,±0.8 mm,8.233873084025456
+Nozzle bore positional tolerance,Flange face flatness tolerance,1,0.05 mm,12.840100532424676
+Nozzle bore positional tolerance,Flange face flatness tolerance,2,0.10 mm,10.712332266360605
+Nozzle bore positional tolerance,Flange face flatness tolerance,3,0.15 mm,12.239679407357846
+Flange face flatness,Wall thickness tolerance,1,±0.5 mm,24.930561064168185
+Flange face flatness,Wall thickness tolerance,2,±0.8 mm,24.27795408659364
+Flange face flatness,Wall thickness tolerance,3,±1.2 mm,24.525738459374708
+Flange face flatness,Bore position tolerance,1,±0.3 mm,24.40823612393724
+Flange face flatness,Bore position tolerance,2,±0.5 mm,24.290901605972078
+Flange face flatness,Bore position tolerance,3,±0.8 mm,25.03511588022722
+Flange face flatness,Flange face flatness tolerance,1,0.05 mm,28.946543520659272
+Flange face flatness,Flange face flatness tolerance,2,0.10 mm,24.30829519183091
+Flange face flatness,Flange face flatness tolerance,3,0.15 mm,20.479414897646354

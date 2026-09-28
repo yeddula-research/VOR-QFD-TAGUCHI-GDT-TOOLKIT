@@ -1,0 +1,10 @@
+{
+  "vor_parameters": 11,
+  "vor_parameters_traced": 11,
+  "vor_coverage_pct": 100.0,
+  "callouts": 6,
+  "callouts_traced": 6,
+  "callout_coverage_pct": 100.0,
+  "untraced_vor": [],
+  "untraced_callouts": []
+}

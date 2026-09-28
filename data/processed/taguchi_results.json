@@ -1,0 +1,43 @@
+{
+  "inner_array": "L9",
+  "selected": [
+    "shell_wall_thickness",
+    "nozzle_bore_position",
+    "flange_face_flatness"
+  ],
+  "sn_type": {
+    "shell_wall_thickness": "nominal_the_best",
+    "nozzle_bore_position": "smaller_the_better",
+    "flange_face_flatness": "smaller_the_better"
+  },
+  "optimum_levels": {
+    "shell_wall_thickness": 0,
+    "nozzle_bore_position": 0,
+    "flange_face_flatness": 0
+  },
+  "optimal_tolerance_mm": {
+    "shell_wall_thickness": 0.5,
+    "nozzle_bore_position": 0.3,
+    "flange_face_flatness": 0.05
+  },
+  "predicted_sn_db": {
+    "shell_wall_thickness": 38.79730554892058,
+    "nozzle_bore_position": 16.693352979358348,
+    "flange_face_flatness": 29.129171635340338
+  },
+  "confirmation_sn_db": {
+    "shell_wall_thickness": 38.649631159513675,
+    "nozzle_bore_position": 16.750008772047924,
+    "flange_face_flatness": 29.07756068387097
+  },
+  "best_single_run": {
+    "shell_wall_thickness": 2,
+    "nozzle_bore_position": 1,
+    "flange_face_flatness": 1
+  },
+  "own_factor_contribution_pct": {
+    "shell_wall_thickness": 95.35783558711753,
+    "nozzle_bore_position": 90.02399461703828,
+    "flange_face_flatness": 98.51935121132635
+  }
+}

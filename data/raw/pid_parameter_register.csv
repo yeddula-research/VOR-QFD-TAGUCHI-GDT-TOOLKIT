@@ -1,0 +1,16 @@
+item_id,pid_tag,parameter,value,units,source,severity,compliance_criticality
+R01,V-101,Design pressure,25.0,barg,ASME_VIII,9,5
+R02,V-101,Design temperature range,-10 to 150,degC,ASME_VIII,7,5
+R03,V-101,Corrosion allowance,3.0,mm,ASME_VIII,8,4
+R04,V-101,Hydrostatic test pressure,32.5,barg,ASME_VIII,8,5
+R05,6in-P-1001,Design flow rate,120,m3/h,PROCESS_DATASHEET,5,3
+R06,PT-101 / LT-101,Instrument tap location,EL +1200 / +2400,mm,PROCESS_DATASHEET,6,3
+R07,LSHH-101,Safety interlock clearance (high-high level trip),150 below N1,mm,OSHA_PSM,9,5
+R08,N1-N6,Gasket seating and pressure boundary integrity,Class 300 RF flanges,-,ASME_VIII,8,4
+R09,V-101,Service corrosion rate and internal coating,0.1 mm/yr; epoxy lining,-,PROCESS_DATASHEET,5,3
+R10,V-101,External pressure rating,Full vacuum,-,ASME_VIII,7,4
+R11,V-101 seams,Radiographic inspection access and weld alignment,"Full RT, Cat. A/B joints",-,ASME_VIII,7,4
+R12,V-101,Nameplate bracket location,"Top head, 0 deg",-,OWNER_PREFERENCE,2,1
+R13,V-101,External paint colour,RAL 7035,-,OWNER_PREFERENCE,1,1
+R14,V-101,Insulation cladding,Aluminium 0.8 mm,-,GENERAL_SPEC,2,2
+R15,V-101,Access ladder orientation,90 deg,-,GENERAL_SPEC,2,1

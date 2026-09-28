@@ -1,0 +1,7 @@
+Engineering characteristic,VoR parameters (strong relationship),Relationship sum,Wr-weighted AIC,Share of total AIC (%),Priority rank
+Shell wall thickness tolerance,Design pressure; Corrosion allowance; Hydrostatic test pressure,38,29.93333333333333,30.634523538776435,1
+Nozzle bore positional tolerance,Design flow rate; Instrument tap location; Safety interlock clearance (high-high level trip),34,21.155555555555555,21.6511257675688,2
+Flange face flatness,Gasket seating and pressure boundary integrity,20,15.355555555555556,15.715260404821471,3
+Shell out-of-roundness,External pressure rating,18,13.666666666666666,13.986809188082782,4
+Weld joint perpendicularity,Radiographic inspection access and weld alignment,15,10.0,10.234250625426426,5
+Surface roughness (Ra),Service corrosion rate and internal coating,16,7.6,7.778030475324085,6

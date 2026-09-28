@@ -1,0 +1,6 @@
+**HoQ roof: conflicting characteristic pairs (demonstration dataset)**
+
+| ec_a | ec_b | correlation |
+|---|---|---|
+| Nozzle bore positional tolerance | Surface roughness (Ra) | -1 |
+| Flange face flatness | Weld joint perpendicularity | -1 |

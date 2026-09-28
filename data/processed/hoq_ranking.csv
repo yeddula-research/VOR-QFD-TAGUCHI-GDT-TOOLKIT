@@ -1,0 +1,7 @@
+ec,engineering_characteristic,vor_parameters_strong,relationship_sum,aic,relative_importance_pct,priority_rank
+shell_wall_thickness,Shell wall thickness tolerance,Design pressure; Corrosion allowance; Hydrostatic test pressure,38,29.93333333333333,30.634523538776435,1
+nozzle_bore_position,Nozzle bore positional tolerance,Design flow rate; Instrument tap location; Safety interlock clearance (high-high level trip),34,21.155555555555555,21.6511257675688,2
+flange_face_flatness,Flange face flatness,Gasket seating and pressure boundary integrity,20,15.355555555555556,15.715260404821471,3
+shell_out_of_roundness,Shell out-of-roundness,External pressure rating,18,13.666666666666666,13.986809188082782,4
+weld_joint_perpendicularity,Weld joint perpendicularity,Radiographic inspection access and weld alignment,15,10.0,10.234250625426426,5
+surface_roughness,Surface roughness (Ra),Service corrosion rate and internal coating,16,7.6,7.778030475324085,6

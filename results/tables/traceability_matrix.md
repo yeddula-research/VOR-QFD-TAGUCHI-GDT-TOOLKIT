@@ -1,0 +1,25 @@
+**Traceability: GD&T callout <-> HoQ <-> VoR <-> P&ID (demonstration dataset)**
+
+| callout | control | engineering_characteristic | priority_rank | relationship | vor_item | vor_parameter | pid_tag | regulatory_source |
+|---|---|---|---|---|---|---|---|---|
+| 16.0 ±0.50 mm | size | Shell wall thickness tolerance | 1 | 9 | R01 | Design pressure | V-101 | ASME BPVC Section VIII, Division 1 |
+| 16.0 ±0.50 mm | size | Shell wall thickness tolerance | 1 | 3 | R02 | Design temperature range | V-101 | ASME BPVC Section VIII, Division 1 |
+| 16.0 ±0.50 mm | size | Shell wall thickness tolerance | 1 | 9 | R03 | Corrosion allowance | V-101 | ASME BPVC Section VIII, Division 1 |
+| 16.0 ±0.50 mm | size | Shell wall thickness tolerance | 1 | 9 | R04 | Hydrostatic test pressure | V-101 | ASME BPVC Section VIII, Division 1 |
+| 16.0 ±0.50 mm | size | Shell wall thickness tolerance | 1 | 3 | R09 | Service corrosion rate and internal coating | V-101 | Project process datasheet |
+| 16.0 ±0.50 mm | size | Shell wall thickness tolerance | 1 | 3 | R10 | External pressure rating | V-101 | ASME BPVC Section VIII, Division 1 |
+| ⌖ \| ⌀0.60 \| A \| B \| C | position | Nozzle bore positional tolerance | 2 | 3 | R02 | Design temperature range | V-101 | ASME BPVC Section VIII, Division 1 |
+| ⌖ \| ⌀0.60 \| A \| B \| C | position | Nozzle bore positional tolerance | 2 | 9 | R05 | Design flow rate | 6in-P-1001 | Project process datasheet |
+| ⌖ \| ⌀0.60 \| A \| B \| C | position | Nozzle bore positional tolerance | 2 | 9 | R06 | Instrument tap location | PT-101 / LT-101 | Project process datasheet |
+| ⌖ \| ⌀0.60 \| A \| B \| C | position | Nozzle bore positional tolerance | 2 | 9 | R07 | Safety interlock clearance (high-high level trip) | LSHH-101 | OSHA Process Safety Management (29 CFR 1910.119) |
+| ⏥ \| 0.05 | flatness | Flange face flatness | 3 | 3 | R01 | Design pressure | V-101 | ASME BPVC Section VIII, Division 1 |
+| ⏥ \| 0.05 | flatness | Flange face flatness | 3 | 3 | R02 | Design temperature range | V-101 | ASME BPVC Section VIII, Division 1 |
+| ⏥ \| 0.05 | flatness | Flange face flatness | 3 | 3 | R04 | Hydrostatic test pressure | V-101 | ASME BPVC Section VIII, Division 1 |
+| ⏥ \| 0.05 | flatness | Flange face flatness | 3 | 9 | R08 | Gasket seating and pressure boundary integrity | N1-N6 | ASME BPVC Section VIII, Division 1 |
+| ○ \| 2.00 | circularity | Shell out-of-roundness | 4 | 3 | R01 | Design pressure | V-101 | ASME BPVC Section VIII, Division 1 |
+| ○ \| 2.00 | circularity | Shell out-of-roundness | 4 | 3 | R04 | Hydrostatic test pressure | V-101 | ASME BPVC Section VIII, Division 1 |
+| ○ \| 2.00 | circularity | Shell out-of-roundness | 4 | 9 | R10 | External pressure rating | V-101 | ASME BPVC Section VIII, Division 1 |
+| ⟂ \| 0.50 \| A | perpendicularity | Weld joint perpendicularity | 5 | 9 | R11 | Radiographic inspection access and weld alignment | V-101 seams | ASME BPVC Section VIII, Division 1 |
+| Ra 3.2 µm max | surface_texture | Surface roughness (Ra) | 6 | 3 | R03 | Corrosion allowance | V-101 | ASME BPVC Section VIII, Division 1 |
+| Ra 3.2 µm max | surface_texture | Surface roughness (Ra) | 6 | 3 | R08 | Gasket seating and pressure boundary integrity | N1-N6 | ASME BPVC Section VIII, Division 1 |
+| Ra 3.2 µm max | surface_texture | Surface roughness (Ra) | 6 | 9 | R09 | Service corrosion rate and internal coating | V-101 | Project process datasheet |

@@ -1,0 +1,14 @@
+**Table 2 - Taguchi L9 orthogonal array: S/N ratio results for top three characteristics (source: the paper)**
+
+| Experiment run | Wall thickness tolerance (mm) | Bore position tolerance (mm) | Flange flatness (mm) | S/N ratio — wall (dB) | S/N ratio — bore (dB) | S/N ratio — flatness (dB) |
+|---|---|---|---|---|---|---|
+| Run 1 | ±0.5 | ±0.3 | 0.05 | 18.2 | 16.4 | 20.1 |
+| Run 2 | ±0.5 | ±0.5 | 0.10 | 17.8 | 14.9 | 17.3 |
+| Run 3 | ±0.5 | ±0.8 | 0.15 | 17.1 | 12.6 | 14.8 |
+| Run 4 | ±0.8 | ±0.3 | 0.10 | 15.6 | 16.1 | 17.0 |
+| Run 5 | ±0.8 | ±0.5 | 0.15 | 15.2 | 14.3 | 14.5 |
+| Run 6 | ±0.8 | ±0.8 | 0.05 | 15.9 | 12.4 | 20.0 |
+| Run 7 | ±1.2 | ±0.3 | 0.15 | 12.3 | 15.8 | 14.2 |
+| Run 8 | ±1.2 | ±0.5 | 0.05 | 12.8 | 14.0 | 19.8 |
+| Run 9 | ±1.2 | ±0.8 | 0.10 | 11.9 | 11.8 | 17.1 |
+| Optimal | ±0.5 | ±0.3 | 0.05 | 18.2 | 16.4 | 20.1 |

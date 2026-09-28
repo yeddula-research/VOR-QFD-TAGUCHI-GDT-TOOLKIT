@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this toolkit, please cite both the software and the original paper."
+title: "VoR-QFD-Taguchi-GD&T Toolkit"
+version: 1.0.0
+date-released: 2026-09-27
+authors:
+  - family-names: "Yeddula"
+    given-names: "Vijayakumar Reddy"
+  - family-names: "Adurthy"
+    given-names: "Durga Bhaskara Raghava Rama Kishor"
+  - family-names: "Shaikh"
+    given-names: "Shahnawaz Shakil"
+license: MIT
+repository-code: "https://github.com/yeddula-research/vor-qfd-taguchi-gdt-toolkit"
+preferred-citation:
+  type: conference-paper
+  title: "From Voice of Regulation to Robust Design Utilizing QFD and Taguchi Methods to Translate P&ID Requirements into GD&T Schemes for Process Equipment"
+  authors:
+    - family-names: "Yeddula"
+      given-names: "Vijayakumar Reddy"
+    - family-names: "Adurthy"
+      given-names: "Durga Bhaskara Raghava Rama Kishor"
+    - family-names: "Shaikh"
+      given-names: "Shahnawaz Shakil"
+  collection-title: "Proceedings of the 5th International Conference on Computer Networks, Big Data and IoT (ICCBI-2026)"
+  start: 492
+  end: 499
+  year: 2026
+  isbn: "979-8-3315-6379-0"

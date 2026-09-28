@@ -1,0 +1,9 @@
+{
+  "selected_for_optimization": [
+    "shell_wall_thickness",
+    "nozzle_bore_position",
+    "flange_face_flatness"
+  ],
+  "top_k": 3,
+  "selected_share_of_total_aic_pct": 68.00090971116671
+}

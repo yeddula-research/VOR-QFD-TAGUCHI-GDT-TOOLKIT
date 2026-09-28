@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vor-qfd-taguchi-gdt-toolkit"
+version = "1.0.0"
+description = "Open-source companion toolkit for 'From Voice of Regulation to Robust Design Utilizing QFD and Taguchi Methods to Translate P&ID Requirements into GD&T Schemes for Process Equipment' (ICCBI-2026)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Vijayakumar Reddy Yeddula" },
+    { name = "Durga Bhaskara Raghava Rama Kishor Adurthy" },
+    { name = "Shahnawaz Shakil Shaikh" },
+]
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "scipy>=1.11",
+    "matplotlib>=3.8",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

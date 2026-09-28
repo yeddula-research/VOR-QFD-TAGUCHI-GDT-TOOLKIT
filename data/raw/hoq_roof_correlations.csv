@@ -1,0 +1,6 @@
+ec_a,ec_b,correlation
+shell_wall_thickness,shell_out_of_roundness,1
+flange_face_flatness,surface_roughness,1
+nozzle_bore_position,weld_joint_perpendicularity,1
+nozzle_bore_position,surface_roughness,-1
+flange_face_flatness,weld_joint_perpendicularity,-1
